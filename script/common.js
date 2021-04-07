@@ -1,0 +1,1 @@
+"use strict";var blocksContent=document.querySelector(".blocks__content");setTimeout(function(){blocksContent.classList.add("none")},2500);
